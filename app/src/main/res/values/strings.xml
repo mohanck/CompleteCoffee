@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Complete Coffee</string>
+
+    <string name="hint_name">Name</string>
+
+    <string name="email_subject">Congratulations. Your Coffee Order has been completed successfully!</string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="name">Name : <xliff:g id="name_id" example="Mohan">%s</xliff:g></string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="toppings">Toppings</string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="wc">Whipped Cream</string>
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="choc">Chocolate</string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="qty">Quantity</string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="order">Order</string>
+
+    <!-- Thank you message for the order summary. [CHAR LIMIT=NONE] -->
+
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="space"> : </string>
+    <string name="ty">Thank you!</string>
+    <string name="zero">0</string>
+    <string name="y">Yes</string>
+    <string name="n">No</string>
+    <string name="total">Total : <xliff:g id="value" example="$8">%s</xliff:g></string>
+</resources>

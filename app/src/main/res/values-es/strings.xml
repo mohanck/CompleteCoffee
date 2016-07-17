@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Café Completa</string>
+    <string name="choc">Chocolate</string>
+    <string name="minus">-</string>
+    <string name="n">No</string>
+    <string name="name">Nombre : <xliff:g id="name_id" example="Mohan">%s</xliff:g></string>
+    <string name="order">Ordenar</string>
+    <string name="plus">+</string>
+    <string name="qty">Cantidad</string>
+    <string name="space"> : </string>
+    <string name="toppings">Ingredientes</string>
+    <string name="total">Total: <xliff:g id="value" example="$8">%s</xliff:g></string>
+    <string name="ty">¡Gracias!</string>
+    <string name="wc">Crema batida</string>
+    <string name="y">Si</string>
+    <string name="zero">0</string>
+    <string name="hint_name">Nombre</string>
+    <string name="email_subject">Felicitaciones. Su orden de café se ha completado con éxito!</string>
+</resources>
